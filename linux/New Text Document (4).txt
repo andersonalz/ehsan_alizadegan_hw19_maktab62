@@ -1,0 +1,3 @@
+sudo apt-get / apt search linux-headers 
+sudo apt-key add (name) 
+wget key link(linux-headers)
